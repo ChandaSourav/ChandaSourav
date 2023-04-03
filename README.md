@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandasourav&label=Profile%20views&color=0e75b6&style=flat" alt="chandasourav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandasourav" alt="chandasourav" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandasourav" alt="chandasourav" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@souravchanda445" target="blank"><img src="https://img.shields.io/twitter/follow/@souravchanda445?logo=twitter&style=for-the-badge" alt="@souravchanda445" /></a> </p>
 
@@ -30,6 +30,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/souravchanda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sourav Chanda" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandasourav&show_icons=true&locale=en&layout=compact" alt="chandasourav" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandasourav&show_icons=true&locale=en&layout=compact" alt="chandasourav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandasourav&show_icons=true&locale=en" alt="chandasourav" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandasourav&show_icons=true&locale=en" alt="chandasourav" /></p>
