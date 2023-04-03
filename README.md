@@ -30,6 +30,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/souravchanda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sourav Chanda" /></a></p><br><br>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandasourav&show_icons=true&locale=en&layout=compact" alt="chandasourav" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandasourav&show_icons=true&locale=en&layout=compact" alt="chandasourav" /></p><br><br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandasourav&show_icons=true&locale=en" alt="chandasourav" /></p>
