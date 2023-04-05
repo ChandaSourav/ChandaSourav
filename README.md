@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://chandasourav.github.io/](https://chandasourav.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/ChandaSourav?tab=repositories](https://github.com/ChandaSourav?tab=repositories)
 
 - 📫 How to reach me **souravchanda601@gmail.com**
 
