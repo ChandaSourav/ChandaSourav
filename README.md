@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourav Chanda</h1>
+![image](https://github.com/user-attachments/assets/5bb62c66-e72d-4fef-a4e3-d9b7a8aadbda)<h1 align="center">Hi 👋, I'm Sourav Chanda</h1>
 <h3 align="center">A passionate frontend or Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandasourav&label=Profile%20views&color=0e75b6&style=flat" alt="chandasourav" /> </p>
@@ -12,6 +12,13 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ChandaSourav?tab=repositories](https://github.com/ChandaSourav?tab=repositories)
 
 - 📫 How to reach me **souravchanda601@gmail.com**
+
+- My Journey:
+- Secondary Education: WBBSE(2015)
+- Higher Secondary Education: WBCHSE(2017)
+- Diploma(Polytechnic) in CST: WBSCT&VE&SD[WBSCTE](2020)
+- B.Tech in CSE: MAKAUT[WBUT](2023)
+- M.Tech in CSE: University of Calcutta[Calcutta University](2025) Pursing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
