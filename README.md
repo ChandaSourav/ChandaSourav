@@ -16,9 +16,9 @@
 - My Journey:
 - Secondary Education: WBBSE(2015)
 - Higher Secondary Education: WBCHSE(2017)
-- Diploma(Polytechnic) in CST: WBSCT&VE&SD[WBSCTE](2020)
-- B.Tech in CSE: MAKAUT[WBUT](2023)
-- M.Tech in CSE: University of Calcutta[Calcutta University](2025) Pursing
+- Diploma(Polytechnic) in CST: WBSCT&VE&SD(WBSCTE)(2020)
+- B.Tech in CSE: MAKAUT(WBUT)(2023)
+- M.Tech in CSE: University of Calcutta(Calcutta University)(2025) Pursing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
